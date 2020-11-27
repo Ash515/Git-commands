@@ -17,3 +17,4 @@ Download Git Software : (https://git-scm.com/downloads)
 |8.| **`git checkout <file ID> <file name>`**|To go back to your previous version of your particular commit.|
 |9.|**`git checkout -- <filename>`**|To come back to your current version.|
 |10.|**`git reset <file name>`**|To go to your normal stage level.|
+|11.|**`git push origin`**|To push your commits to your main github repository.|
