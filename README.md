@@ -22,10 +22,10 @@ Download Git Software : (https://git-scm.com/downloads)
 |13.|**`git pull origin master`**|To pull commits from your master branch github repository.|
 |14.|**`git commit -a -m <commitaddress>`**|To address all of your commits.|
 |15.|**`git rm --cached <filename>`**|To unstage a staged file to be commited.|
-|16.|**`git add .>`**|To add all of the untracked files detected by git.|
-|17.|**`git remote>`**|Lists all remote github repositories associated with your local git project.|
-|18.|**`git remote -v>`**|Lists in verbose all remote github repositories associated with the local project.|
-|19.|**`git remote add origin <URL>>`**|To link your local git repository with your remote github repository.|
+|16.|**`git add .`**|To add all of the untracked files detected by git.|
+|17.|**`git remote`**|Lists all remote github repositories associated with your local git project.|
+|18.|**`git remote -v`**|Lists in verbose all remote github repositories associated with the local project.|
+|19.|**`git remote add origin <URL>`**|To link your local git repository with your remote github repository.|
 |20.|**`git config --global user.name "Your Name"`**|To configure your github account username with git.|
 |21.|**`git config --global user.email your@example.com`**|To configure your github account email with git.|
 |22.|**`git config --list`**|To list all your git configurations.|
