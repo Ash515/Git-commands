@@ -29,3 +29,9 @@ Download Git Software : (https://git-scm.com/downloads)
 |20.|**`git config --global user.name "Your Name"`**|To configure your github account username with git.|
 |21.|**`git config --global user.email your@example.com`**|To configure your github account email with git.|
 |22.|**`git config --list`**|To list all your git configurations.|
+
+
+# Contributors
+- Ashwin Kumar Ramaswamy
+- 
+
