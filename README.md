@@ -32,6 +32,6 @@ Download Git Software : (https://git-scm.com/downloads)
 
 
 # Contributors
-- Ashwin Kumar Ramaswamy
-- Mohsin
+- [Ashwin Kumar Ramaswamy](https://github.com/Ash515)
+- [Mohsin](https://github.com/mohsin-code)
 
